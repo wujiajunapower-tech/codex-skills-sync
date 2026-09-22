@@ -1,0 +1,4 @@
+interface:
+  display_name: "仪表盘元素提醒"
+  short_description: "设计前端时提醒是否采用 Vercel 风格仪表盘布局与配色元素"
+  default_prompt: "Use $dashboard-elements-reminder to check which dashboard elements this frontend needs."
