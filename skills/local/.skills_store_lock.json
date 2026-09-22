@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skill-skillhub": {
+      "name": "find skill",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=find-skill-skillhub",
+      "source": "community",
+      "version": "1.0.2",
+      "installedAt": "2026-08-07T22:17:59Z"
+    },
+    "self-improving-agent": {
+      "name": "self-improving agent",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=self-improving-agent",
+      "source": "community",
+      "version": "3.0.24",
+      "installedAt": "2026-08-07T22:20:11Z"
+    },
+    "self-improving": {
+      "name": "Self-Improving + Proactive Agent",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=self-improving",
+      "source": "community",
+      "version": "1.2.16",
+      "installedAt": "2026-08-07T22:20:53Z"
+    },
+    "superdesign": {
+      "name": "SuperDesign",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=superdesign",
+      "source": "community",
+      "version": "1.0.0",
+      "installedAt": "2026-08-07T22:21:39Z"
+    },
+    "bazi-paipan": {
+      "name": "八字排盘",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=bazi-paipan",
+      "source": "community",
+      "version": "2.1.0",
+      "installedAt": "2026-08-07T22:23:19Z"
+    },
+    "z-xhs-note": {
+      "name": "小红书爆款笔记生成器（生成即用·笔记）",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=z-xhs-note",
+      "source": "community",
+      "version": "1.0.1",
+      "installedAt": "2026-08-08T15:29:17Z"
+    }
+  }
+}
