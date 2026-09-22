@@ -1,0 +1,7 @@
+interface:
+  display_name: "每周围场制作"
+  short_description: "五分钟赛车周报的核验写稿分镜与素材整理交付完整流程"
+  default_prompt: "使用 $weekly-paddock-production 制作本周每周围场新闻。"
+
+policy:
+  allow_implicit_invocation: true
